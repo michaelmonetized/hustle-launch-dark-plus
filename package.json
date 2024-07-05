@@ -1,0 +1,21 @@
+{
+  "name": "hustle-launch-dark-plus",
+  "displayName": "Hustle Launch Dark+",
+  "description": "based on catpuccin and rose pine",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hustle Launch Dark+",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Hustle Launch Dark+-color-theme.json"
+      }
+    ]
+  }
+}
